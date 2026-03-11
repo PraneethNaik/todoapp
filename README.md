@@ -1,17 +1,25 @@
-# todolist
+# Todolist Flutter App
 
-A new Flutter project.
+## Overview
+This is a Flutter application developed as part of the Herody Flutter Developer technical task.  
+The app demonstrates the following features:
 
-## Getting Started
+- Clean and responsive UI
+- State management
+- API integration (if applicable)
+- Local data storage (if implemented)
+- Proper folder structure and code organization
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- **Task List:** View a list of tasks
+- **Add Task:** Add a new task to the list
+- **Edit Task:** Modify existing tasks
+- **Delete Task:** Remove tasks from the list
+- **APK:** A compiled APK is attached for convenience
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## Folder Structure
